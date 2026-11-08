@@ -103,3 +103,6 @@
 [2026-09-28 21:22:35] [D:\@Source\zegu\zegu_official\zegu_offcial] 删除远程分支: origin/feature/首席质量官pc端更新  commit: 1a1f283
 [2026-11-05 22:24:47] [D:\@Source\eastedu\eastedu-answer-sheet] 删除本地分支: feature/1005760-答题卡学生学号修改为书写框的方式呈现  commit: e0b312ae
 [2026-11-05 22:24:52] [D:\@Source\eastedu\eastedu-answer-sheet] 删除本地分支: feature/1006053-在答题区的图片支持放大缩小和浮动  commit: 1e62c80a
+[2026-11-08 16:09:46] [D:\@Source\eastedu\student-miniprogram] 删除本地分支: feature/1005028-教辅作业支持讲评功能  commit: f17f0b6
+[2026-11-08 16:09:51] [D:\@Source\eastedu\student-miniprogram] 删除本地分支: 学情诊断  commit: 84dba78
+[2026-11-08 16:09:56] [D:\@Source\eastedu\student-miniprogram] 删除远程分支: origin/学情诊断  commit: e67594e
